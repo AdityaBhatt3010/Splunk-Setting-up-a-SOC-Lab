@@ -249,8 +249,6 @@ Open browser inside VM.
 
 Login using the credentials you just created.
 
-![1](SOCJr10/1.png)
-
 ---
 
 Question:
@@ -1280,6 +1278,8 @@ Answer:
 /images/coffeerecipes/cappuchino.png
 ```
 
+![5](SOCJr10/5.png)
+
 ---
 
 ## Question 3 — Secret Flag
@@ -1297,6 +1297,8 @@ Flag:
 ```text
 THM{best_coffee_in_town!}
 ```
+
+![6](SOCJr10/6.png)
 
 ---
 
@@ -1371,15 +1373,15 @@ This lab covered foundational SOC engineering concepts through practical Splunk 
 
 We:
 
-✅ Installed Splunk Enterprise
-✅ Managed Splunk via CLI
-✅ Installed Universal Forwarder
-✅ Configured log forwarding
-✅ Created indexes
-✅ Ingested Linux telemetry
-✅ Ingested Apache web logs
-✅ Investigated events with SPL
-✅ Explored deployment server concepts
+✅ Installed Splunk Enterprise <br/>
+✅ Managed Splunk via CLI <br/>
+✅ Installed Universal Forwarder <br/>
+✅ Configured log forwarding <br/>
+✅ Created indexes <br/>
+✅ Ingested Linux telemetry <br/>
+✅ Ingested Apache web logs <br/>
+✅ Investigated events with SPL <br/>
+✅ Explored deployment server concepts <br/>
 
 ---
 
