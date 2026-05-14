@@ -1,4 +1,4 @@
-# Splunk SOC Lab Walkthrough: Building a Mini SIEM with Splunk & Universal Forwarder
+# Splunk: Setting Up a SOC Lab Walkthrough: Building a Mini SIEM with Splunk & Universal Forwarder
 
 Security Operations Centers (SOCs) rely heavily on centralized logging and monitoring to detect suspicious activity, investigate incidents, and maintain visibility across infrastructure. In this hands-on lab, we’ll build a small SOC-style environment using Splunk, configure log forwarding, ingest Linux and Apache web logs, and perform some basic investigation.
 
