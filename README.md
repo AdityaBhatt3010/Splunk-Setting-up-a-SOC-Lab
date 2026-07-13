@@ -4,8 +4,6 @@ Security Operations Centers (SOCs) rely heavily on centralized logging and monit
 
 This room focuses less on attack simulation and more on foundational blue-team engineering—setting up the telemetry pipeline that analysts depend on every day.
 
-Lab: [TryHackMe Splunk Lab](https://tryhackme.com/room/splunklab?utm_source=chatgpt.com)
-
 ---
 
 # Task 1: Introduction
@@ -1026,11 +1024,7 @@ Now we move into one of the most useful SOC data sources:
 
 The Coffely application is hosted locally via Apache.
 
-Accessible at:
-
-```text
-http://coffely.thm:8080
-```
+Accessible at the given URL.
 
 Web logs help analysts investigate:
 
@@ -1186,11 +1180,7 @@ Keeping data segmented improves:
 
 Initially, logs may be quiet.
 
-Visit:
-
-```text
-http://coffely.thm:8080
-```
+Visit the URL.
 
 Browse around.
 
@@ -1287,16 +1277,12 @@ Answer:
 Visit:
 
 ```text
-http://coffely.thm:8080/secret-flag.html
+URL:8080/secret-flag.html
 ```
 
 Check recent orders.
 
 Flag:
-
-```text
-THM{best_coffee_in_town!}
-```
 
 ![6](SOCJr10/6.png)
 
